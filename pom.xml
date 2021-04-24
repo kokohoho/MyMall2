@@ -5,7 +5,7 @@
     <groupId>com.example.mymall</groupId>
     <artifactId>mymall-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mymall-ware</name>
+    <name>mymall-parent</name>
     <packaging>pom</packaging>
     <description>聚合服务</description>
 
@@ -15,6 +15,9 @@
         <module>mymall-order</module>
         <module>mymall-product</module>
         <module>mymall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>mymall-common</module>
     </modules>
 
 </project>
